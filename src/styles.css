@@ -6,6 +6,9 @@ body
   padding-bottom: 50px;
 }
 
+.img-logo{
+  width: 150px;
+}
 
 .animated {
   -webkit-animation-duration: 1s;
